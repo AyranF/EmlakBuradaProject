@@ -71,3 +71,31 @@ Review aşamasında User Service'ten ilan veren kullanıcının ilan verme hakk�
 # Gateway Service
 
 Bu servis gelen istekleri ilgili servislere dağıtma görevini yerine getirmektedir. Eğer sisteme giriş yapıldıktan sonra işlem yapılması gereken bir durum varsa bu durumu yine bu servis kontrol eder.
+
+# Ekran Görüntüleri
+
+Kullanıcı kaydı
+![](PostmanSS/saveUser.png)
+
+Var olan e-posta ile kullanıcı kaydı
+![](PostmanSS/emailExist.png)
+
+Sisteme giriş yapma
+![](PostmanSS/getToken.png)
+
+Sisteme giriş yapma
+![](PostmanSS/getToken.png)
+
+İlan hakkı satın alma
+![](PostmanSS/purchase.png)
+
+İlan oluşturma
+![](PostmanSS/saveAdvert.png)
+
+Tüm ilanları görüntüleme
+
+![](PostmanSS/getAllAdvert.png)
+
+Belirli bir kullanıcıyı görüntüleme
+![](PostmanSS/getUser.png)
+![](PostmanSS/getUser_2.png)
